@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter Ahunanya
-- 👀 I’m interested in full stack web and android development
-- 🌱 I’m currently learning android development
+- 👀 I’m interested mobile development
+- 🌱 I’m  a flutter developer
 - 📫 How to reach me  via twitter:@_nanya1
 
 <!---
