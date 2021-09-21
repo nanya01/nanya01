@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peter Ahunanya
-- 👀 I’m interested inmobile development
+- 👀 I’m interested in mobile development
 - 🌱 I’m  a flutter developer
 - 📫 How to reach me  via twitter:@_nanya1
 
